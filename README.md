@@ -1,0 +1,1 @@
+This is a project which helps to improve the accuracy of the machine learning model . To improve the accuracy of the machine learning model hyperparameter tuning plays an important role .This process involves data preprocessing , data analysing , creating ml model and check accuracy , to improve the accuracy this hyperparameter tuning plays an important role .
